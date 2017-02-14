@@ -1,0 +1,124 @@
+ERROR   2017-02-14 10:44:05,516 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:44:05,517 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:44:36,561 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:44:36,562 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:45:37,488 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:45:37,490 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:46:08,547 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:46:08,549 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:51:36,417 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:51:36,418 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:52:20,569 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:52:20,571 [main] datamanager.DataManager  - something
+TRACE   2017-02-14 10:52:30,082 [main] Main  - store created
+ERROR   2017-02-14 10:52:30,089 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:52:30,089 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:52:47,279 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:52:47,281 [main] datamanager.DataManager  - something
+TRACE   2017-02-14 10:53:00,882 [main] Main  - store created
+ERROR   2017-02-14 10:53:00,889 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:53:00,889 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:53:50,070 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:53:50,072 [main] datamanager.DataManager  - something
+TRACE   2017-02-14 10:54:12,111 [main] Main  - store created
+ERROR   2017-02-14 10:54:12,121 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 10:54:12,121 [main] datamanager.DataManager  - something
+TRACE   2017-02-14 11:01:07,762 [main] Main  - store created
+ERROR   2017-02-14 11:01:07,768 [main] datamanager.DataManager  - something
+ERROR   2017-02-14 11:01:07,768 [main] datamanager.DataManager  - something
+TRACE   2017-02-14 10:25:08,666 [main] Main  - store created
+TRACE   2017-02-14 10:38:39,492 [main] Main  - store created
+TRACE   2017-02-14 10:39:21,338 [main] Main  - store created
+ERROR   2017-02-14 10:39:21,361 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 10:40:59,554 [main] Main  - store created
+TRACE   2017-02-14 10:41:07,790 [main] Main  - store created
+TRACE   2017-02-14 10:41:22,526 [main] Main  - store created
+ERROR   2017-02-14 10:41:22,537 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 10:47:15,619 [main] Main  - store created
+ERROR   2017-02-14 10:47:15,633 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 10:52:41,861 [main] Main  - store created
+ERROR   2017-02-14 10:52:41,873 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 10:57:26,250 [main] Main  - store created
+ERROR   2017-02-14 10:57:26,262 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 10:58:06,564 [main] Main  - store created
+ERROR   2017-02-14 10:58:06,572 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 11:07:22,293 [main] Main  - store created
+ERROR   2017-02-14 11:07:22,300 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 11:31:37,116 [main] Main  - store created
+TRACE   2017-02-14 11:32:20,598 [main] Main  - store created
+TRACE   2017-02-14 11:32:50,931 [main] Main  - store created
+TRACE   2017-02-14 11:33:05,663 [main] Main  - store created
+TRACE   2017-02-14 11:34:14,713 [main] Main  - store created
+TRACE   2017-02-14 11:50:49,711 [main] Main  - store created
+ERROR   2017-02-14 11:50:49,717 [main] CarShop.Store  - car with model kia-reva was not found
+CarShop.CarNotFoundException
+	at CarShop.Store.sellCar(Store.java:99)
+	at Main.main(Main.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+TRACE   2017-02-14 11:51:31,654 [main] Main  - store created
+TRACE   2017-02-14 11:51:56,539 [main] Main  - store created
+TRACE   2017-02-14 11:52:52,667 [main] Main  - store created
+TRACE   2017-02-14 11:53:24,986 [main] Main  - store created
+TRACE   2017-02-14 11:53:46,294 [main] Main  - store created
+TRACE   2017-02-14 11:54:05,083 [main] Main  - store created
+TRACE   2017-02-14 11:54:51,758 [main] Main  - store created
